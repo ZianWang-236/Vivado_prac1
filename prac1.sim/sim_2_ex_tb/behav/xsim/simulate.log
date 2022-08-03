@@ -1,0 +1,13 @@
+Time resolution is 1 ps
+Error: test for input = 0000 failed, wrong output!
+Time: 10 ps  Iteration: 0  Process: /test_selfcheck/input_gen  File: D:/Files/Vivado_workpath/prac1/prac1_tb_assignment/prac1.srcs/sim_2_ex_tb/new/test_selfcheck.vhd
+Error: test for input = 0100 failed, wrong output!
+Time: 40 ps  Iteration: 0  Process: /test_selfcheck/input_gen  File: D:/Files/Vivado_workpath/prac1/prac1_tb_assignment/prac1.srcs/sim_2_ex_tb/new/test_selfcheck.vhd
+Error: test for input = 0101 failed, wrong output!
+Time: 50 ps  Iteration: 0  Process: /test_selfcheck/input_gen  File: D:/Files/Vivado_workpath/prac1/prac1_tb_assignment/prac1.srcs/sim_2_ex_tb/new/test_selfcheck.vhd
+Error: test for input = 1000 failed, wrong output!
+Time: 80 ps  Iteration: 0  Process: /test_selfcheck/input_gen  File: D:/Files/Vivado_workpath/prac1/prac1_tb_assignment/prac1.srcs/sim_2_ex_tb/new/test_selfcheck.vhd
+Error: test for input = 1001 failed, wrong output!
+Time: 90 ps  Iteration: 0  Process: /test_selfcheck/input_gen  File: D:/Files/Vivado_workpath/prac1/prac1_tb_assignment/prac1.srcs/sim_2_ex_tb/new/test_selfcheck.vhd
+Error: test for input = 1100 failed, wrong output!
+Time: 120 ps  Iteration: 0  Process: /test_selfcheck/input_gen  File: D:/Files/Vivado_workpath/prac1/prac1_tb_assignment/prac1.srcs/sim_2_ex_tb/new/test_selfcheck.vhd

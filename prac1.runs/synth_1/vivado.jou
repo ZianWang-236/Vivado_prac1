@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Tue Aug  2 11:29:14 2022
+# Process ID: 17648
+# Current directory: D:/Files/Vivado_workpath/prac1/prac1_tb_assignment/prac1.runs/synth_1
+# Command line: vivado.exe -log and2or.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source and2or.tcl
+# Log file: D:/Files/Vivado_workpath/prac1/prac1_tb_assignment/prac1.runs/synth_1/and2or.vds
+# Journal file: D:/Files/Vivado_workpath/prac1/prac1_tb_assignment/prac1.runs/synth_1\vivado.jou
+# Running On: DESKTOP-2MT03UA, OS: Windows, CPU Frequency: 2994 MHz, CPU Physical cores: 12, Host memory: 16505 MB
+#-----------------------------------------------------------
+source and2or.tcl -notrace
